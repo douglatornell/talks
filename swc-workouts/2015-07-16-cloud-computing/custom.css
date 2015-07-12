@@ -1,0 +1,34 @@
+/* Custom CSS for 16Jul2015 SWC-Workout Cloud Computing talk slides */
+
+/* Tweak links colours to look better on clouds and sky background */
+.reveal a {
+  color: #8b743d;
+  text-decoration: none;
+  -webkit-transition: color 0.15s ease;
+  -moz-transition: color 0.15s ease;
+  transition: color 0.15s ease; }
+
+.reveal a:hover {
+  color: #c0a76e;
+  text-shadow: none;
+  border: none; }
+
+
+/* Get rid of image border */
+.reveal section img {
+  margin: 15px 0px;
+  background: rgba(255, 255, 255, 0.12);
+  border: 0px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15); }
+
+
+/* Put attribution text for an image below its lower right corner */
+div.attributed-img {
+    margin-left: auto;
+    margin-right: auto;
+}
+p.attribution {
+    font-size: 0.4em;
+    text-align: right;
+    margin-top: -25px;
+}
