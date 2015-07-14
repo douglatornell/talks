@@ -8,11 +8,11 @@
 
 /* Tweak links colours to look better on clouds and sky background */
 .reveal a {
-  color: #8b743d;
+  color: #42affa;
 }
 
 .reveal a:hover {
-  color: #c0a76e;
+  color: #8dcffc;
 }
 
 
