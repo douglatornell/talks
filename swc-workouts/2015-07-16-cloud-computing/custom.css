@@ -1,5 +1,11 @@
 /* Custom CSS for 16Jul2015 SWC-Workout Cloud Computing talk slides */
 
+
+/* Remove uppercase text transformation from headings */
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+    text-transform: none;
+}
+
 /* Tweak links colours to look better on clouds and sky background */
 .reveal a {
   color: #8b743d;
