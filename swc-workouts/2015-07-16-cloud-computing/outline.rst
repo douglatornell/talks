@@ -17,6 +17,7 @@ Enabling Technologies
 
 * Data centres; need an image
 * Virtualization
+* The Internet
 
   - screen shot of Ubuntu on Windows 7
   - http://s.profissionaisti.com.br/wp-content/uploads/2013/10/vmware_virtualized1.jpg image of traditional architecture vs. VMs
